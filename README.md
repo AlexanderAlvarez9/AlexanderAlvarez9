@@ -4,7 +4,7 @@ Software development in Web Technologies, passionate for user interfaces and pro
 
 
 - 🔭 I’m currently working on ecommerces and functional webs
-- 🤔 I’m looking for help with https://troud-26391.web.app/
+- 🤔 I’m looking for help with [Troud](https://troud-26391.web.app/)
 - 🌱 I’m currently learning about BaaS
 - 👯 I’m looking to collaborate on all about functional webs
 
