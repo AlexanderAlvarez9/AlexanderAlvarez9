@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Software Engineer** with extensive experience in creating and managing web technologies, focusing on both Frontend and Backend. I specialize in developing robust APIs, managing microservices architectures, and working in multi-cloud environments (AWS, GCP, Azure).
+Senior Software Engineer with a strong background in leading high-scale architectures and optimizing the SDLC through AI-Augmented Development (Cursor, n8n, MCP). Specialist in FullStack solutions (Golang, React, Node.js, Python) with a strategic focus on multicloud security —backed by certifications like AWS Solutions Architect Associate and Azure Fundamentals— and high business impact delivery. Expert in transforming complex requirements into scalable and efficient systems.
 
 Currently, as a **Software Engineer at Mercado Libre**, I develop APIs using **Go (Golang) and React** to detect and report misconfigurations or vulnerabilities.
 
